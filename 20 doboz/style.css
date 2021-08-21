@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    border: solid 2px cornflowerblue;
+    width: 800px;
+    margin-bottom: 10px;
+}
+.narancs {
+    background-color: orangered;
+}
+.box_kicsi {
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}
+.kekhatter {
+    background-color: cornflowerblue;
+}
+.lilahatter {
+    background-color: rgb(71, 16, 71);
+}
